@@ -1,6 +1,6 @@
-# blog_mag
+# Blog
 
-A new Flutter project.
+A new blog app project.
 
 ## Getting Started
 
